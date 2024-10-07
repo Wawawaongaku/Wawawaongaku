@@ -1,4 +1,7 @@
 # umisora!!!
+
+プライベートリポジトリじゃ草生えないんですね／(^o^)＼ﾅﾝﾃｺｯﾀｲ
+
 <p align="left">
     <a href="https://github.com/Wawawaongaku">
         <img height="20" src="https://komarev.com/ghpvc?username=Wawawaongaku" />
