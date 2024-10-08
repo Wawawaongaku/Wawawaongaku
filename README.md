@@ -13,4 +13,3 @@
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wawawaongaku&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wawawaongaku&theme=gruvbox)
