@@ -1,6 +1,7 @@
 # umisora!!!
 
-プライベートリポジトリじゃ草生えないんですね／(^o^)＼ﾅﾝﾃｺｯﾀｲ
+大体プライベートリポジトリな気がします／(^o^)＼ﾅﾝﾃｺｯﾀｲ
+
 
 <p align="left">
     <a href="https://github.com/Wawawaongaku">
