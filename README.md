@@ -11,6 +11,6 @@
     </a>
 </p>
 
-## Skills
+## Likes
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,nodejs,discordjs,arduino,figma,next,linux,ubuntu,redhat," />
 
