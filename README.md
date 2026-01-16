@@ -1,8 +1,8 @@
 # wawawaongaku!!!
 
-大体プライベートリポジトリな気がします
+I am a high school student in Japan
 
-／(^o^)＼ﾅﾝﾃｺｯﾀｲ
+Rustを勉強しています
 
 
 <p align="left">
