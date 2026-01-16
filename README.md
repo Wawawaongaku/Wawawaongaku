@@ -5,6 +5,11 @@ I am a high school student in Japan
 Rustを勉強しています
 
 
+😍: 🎩 👣
+
+🤨: 🦀 🤖
+
+
 <p align="left">
     <a href="https://github.com/Wawawaongaku">
         <img height="20" src="https://komarev.com/ghpvc?username=Wawawaongaku" />
