@@ -1,4 +1,4 @@
-# wawawaongaku!!!
+# Hi!!!
 
 I am a high school student in Japan
 
